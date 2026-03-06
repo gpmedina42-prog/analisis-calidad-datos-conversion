@@ -24,4 +24,14 @@ Impacto Total: +241 ventas identificadas
 no se publican en este portafolio debido a la sensibilidad de los datos. 
 Solo se comparten las vistas que cuentan con masking aplicado.
 
+
+
+## Dashboard Principal
+
+![Dashboard Analítico](Captura%20de%20pantalla%202026-03-06%20000239.png)
+
+> 📊 Vista principal del análisis. Indicadores de base, evolución de campaña, 
+> embudo de conversión y alertas operativas.
+> Datos reales anonimizados mediante masking en SQL.
+
 *Datos reales anonimizados. Autor: Geraldine Patricia Medina Trejo*
