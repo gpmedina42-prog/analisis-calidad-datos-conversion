@@ -20,4 +20,8 @@ Impacto Total: +241 ventas identificadas
 **Stack:** SQL (masking de datos) · Python · Power BI DAX
 
 ---
+**Nota de privacidad:** Las vistas de Fuente-Deciles y Propensiones 
+no se publican en este portafolio debido a la sensibilidad de los datos. 
+Solo se comparten las vistas que cuentan con masking aplicado.
+
 *Datos reales anonimizados. Autor: Geraldine Patricia Medina Trejo*
