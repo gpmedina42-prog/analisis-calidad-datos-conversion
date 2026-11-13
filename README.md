@@ -32,6 +32,6 @@ Solo se comparten las vistas que cuentan con masking aplicado.
 
 > 📊 Vista principal del análisis. Indicadores de base, evolución de campaña, 
 > embudo de conversión y alertas operativas.
-> Datos reales anonimizados mediante masking en SQL.
+> Datos simulados y anonimizados mediante masking en SQL.
 
-*Datos reales anonimizados. Autor: Geraldine Patricia Medina Trejo*
+*Datos simulados anonimizados. Autor: Geraldine Patricia Medina Trejo*
